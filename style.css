@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.countainer{
+   background-color: #d6d6f4;
+   border: 10px solid #1d1e4c;
+   min-height: 100vh;
+}
+.image {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    margin: 8px 10px;
+    padding: 68px 20px 47px 53px;
+}
+
+.image img{
+    width: 275px;
+    height: 290px;
+    box-sizing: border-box;
+    margin: 42px 59px;
+    border-radius: 70%;
+}
+
+.name{
+    font-size: 20px;
+    gap: 20px;
+}
+
+.name h1{
+    color: #1d1e4c;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* font-size: 1em; */ 
+}
+
+.middle{
+    margin-left: 130px;
+}
+
+#heading{
+ font-size: 65px;
+ 
+}
+
+#About{
+    font-size: 30px;
+    font-family: sans-serif;
+    line-height: 30px;
+    letter-spacing: 2.5px;
+    text-align: justify;
+    margin-right: 120px;
+}
+
+
+.Biography{
+    margin: 30px 130px;
+}
+
+.list{
+    padding: 1%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-variant-numeric: tabular-nums;
+}
+
+
+.more{
+    margin-left: 971px;
+}
